@@ -13,5 +13,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: run a file
-      run: gcc code.c -o code; ./code
+    - name: gcc code.c -o code
+      run: ./code
