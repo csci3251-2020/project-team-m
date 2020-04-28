@@ -3,5 +3,6 @@
  <p> We have already started issues and created a project board. Once the README.md file is set up, we will show our team to the Internet,
  ensure that pull requests are added in the correct columns, write a code in C, update the web page https://csci3251-2020.github.io/, and lastly promote our repo </p>
  <h1>Code</h1>
+ https://github.com/csci3251-2020/project-team-m/workflows/CI/badge.svg
  <h1>Contributors</h1>
 
