@@ -1,6 +1,6 @@
 // Your C code here
-{% include_relative project-team-m/README.md %}
-#include <stdio.h>    
+#include <stdio.h> 
+{% include_relative ../README.md %}
 int main()
 { 
     printf("Hello World!!!!!");
