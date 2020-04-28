@@ -5,3 +5,5 @@
  <h1>Code</h1>
  <h1>Contributors</h1>
 
+---
+Last updated: {{ site.time }}
