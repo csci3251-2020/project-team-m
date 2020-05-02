@@ -7,5 +7,7 @@
  <p>https://github.com/csci3251-2020/project-team-m/workflows/CI/badge.svg </p>
  <h1>Contributors</h1>
 
----
-Last updated: {{ site.time }}
+{% for member in .stu %}
+  <h2> >> ![photo]({{ member.image }}）@{{ member.name }}（{{ staff_member.position }}）</h2>
+    <p> >> {{ staff_member.content | markdownify }}</p>
+{% endfor %}
