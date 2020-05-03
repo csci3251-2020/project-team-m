@@ -4,7 +4,7 @@
  ensure that pull requests are added in the correct columns, write a code in C, update the web page https://csci3251-2020.github.io/, and lastly promote our repo </p>
  <h1>Code</h1>    
  <p>{% include_relative code.c %}</p>
- <p>https://github.com/csci3251-2020/project-team-m/workflows/CI/badge.svg </p>
+ <p>![](https://github.com/csci3251-2020/project-team-m/workflows/CI/badge.svg) </p>
  <h1>Contributors</h1>  
 {% for member in site.stu %}
 * ![pic]({{ member.image }}){:height="50px" width="50px"}@{{ member.user }}({{member.name}})  
