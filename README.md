@@ -11,3 +11,5 @@
   * {{ member.content ｜ markdownify }}  
 {% endfor %}
 
+---
+Last updated: {{ site.time }}
